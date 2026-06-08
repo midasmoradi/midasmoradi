@@ -63,7 +63,7 @@ WordPress engineer focused on **enterprise architecture**, **headless & decouple
 | [**wp-restaurant-booking**](https://github.com/midasmoradi/wp-restaurant-booking) | Reservation system — CPT, time slots, emails, REST API |
 | [**wp-react-admin**](https://github.com/midasmoradi/wp-react-admin) | React admin dashboard with custom REST API & analytics widgets |
 | [**theme-quality-inspector**](https://github.com/midasmoradi/theme-quality-inspector) | ThemeForest-grade QA — security, i18n, RTL, WPCS, performance scans |
-| [**omnirecover-for-woocommerce**](https://github.com/midasmoradi/omnirecover-for-woocommerce) | WooCommerce cart recovery & automation plugin |
+| [**omnirecover-for-woocommerce**](https://github.com/midasmoradi/omnirecover-for-woocommerce) | WooCommerce abandoned cart recovery — Email, WhatsApp, Telegram, SMS |
 
 ---
 
