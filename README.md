@@ -54,6 +54,7 @@ WordPress engineer focused on **enterprise architecture**, **headless & decouple
 
 | Project | Description |
 |---------|-------------|
+| [**wp-block-pattern-kit**](https://github.com/midasmoradi/wp-block-pattern-kit) | Gutenberg patterns + CTA block — classic WP ecosystem |
 | [**headless-wp-bridge**](https://github.com/midasmoradi/headless-wp-bridge) | Go bridge & cache — unifies WPGraphQL, REST, external APIs |
 | [**headless-wp-nextjs-starter**](https://github.com/midasmoradi/headless-wp-nextjs-starter) | Decoupled boilerplate — WPGraphQL, ACF, SSG/ISR, revalidation webhook |
 | [**headless-wp-blog**](https://github.com/midasmoradi/headless-wp-blog) | Flagship headless blog demo — Lighthouse-optimized reference implementation |
