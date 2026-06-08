@@ -54,7 +54,8 @@ WordPress engineer focused on **enterprise architecture**, **headless & decouple
 
 | Project | Description |
 |---------|-------------|
-| [**headless-wp-blog**](https://github.com/midasmoradi/headless-wp-blog) | Flagship headless blog — WordPress + WPGraphQL + ACF, Next.js SSG/ISR, Docker |
+| [**headless-wp-nextjs-starter**](https://github.com/midasmoradi/headless-wp-nextjs-starter) | Decoupled boilerplate — WPGraphQL, ACF, SSG/ISR, revalidation webhook |
+| [**headless-wp-blog**](https://github.com/midasmoradi/headless-wp-blog) | Flagship headless blog demo — Lighthouse-optimized reference implementation |
 | [**wp-enterprise-theme-starter**](https://github.com/midasmoradi/wp-enterprise-theme-starter) | Enterprise theme — OOP, PSR-4, DI container, REST API, security layer |
 | [**wp-performance-toolkit**](https://github.com/midasmoradi/wp-performance-toolkit) | 6-module performance plugin — bloat removal, critical CSS, lazy load |
 | [**wp-restaurant-booking**](https://github.com/midasmoradi/wp-restaurant-booking) | Reservation system — CPT, time slots, emails, REST API |
